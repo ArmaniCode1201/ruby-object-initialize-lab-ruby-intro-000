@@ -8,6 +8,7 @@ end
 def name
   @name
 end
+end
 
 beyonce = Person.new("Beyonce")
 beyonce.name
